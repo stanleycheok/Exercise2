@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Car Loan Calculator</string>
+    <string name="car_price">Car Price</string>
+</resources>
